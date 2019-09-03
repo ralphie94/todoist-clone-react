@@ -540,7 +540,7 @@ $generic-bg: #db4c3f;
   }
 
   /* Task Date */ 
-  task-date {
+  .task-date {
       @include box-overlay();
       background-color: #fff;
       width: 200px;
